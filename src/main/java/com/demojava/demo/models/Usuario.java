@@ -3,7 +3,7 @@ package com.demojava.demo.models;
 import lombok.Getter;
 import lombok.Setter;
 
-import javax.persistence.*;
+import jakarta.persistence.*;
 
 @Entity
 @Table(name ="usuarios")
